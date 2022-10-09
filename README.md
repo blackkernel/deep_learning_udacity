@@ -19,6 +19,6 @@
 Link: https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
 Sharing an environment
 
-Activate the environment to export: conda activate myenv. Replace myenv with the name of the environment.
-Export your active environment to a new file: conda env export > environment. yml. ...
-Email or copy the exported environment. yml file to the other person.
++ Activate the environment to export: conda activate myenv. Replace myenv with the name of the environment.
++ Export your active environment to a new file: conda env export > environment. yml. ...
++ Email or copy the exported environment. yml file to the other person.
